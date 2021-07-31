@@ -26,3 +26,17 @@ docker-compose up -d
 [1]: http://localhost:8009
 
 ## How to use
+
+- That is the first page
+![img.png](img.png)
+  
+- To see all the customers
+![img_1.png](img_1.png)
+  
+- To see only one customer
+![img_2.png](img_2.png)
+  
+## Contact
+- Eduardo Lucas
+- Cell phone: (55) 71 99118-2592
+- E-mail: eduardolucas40@gmail.com
