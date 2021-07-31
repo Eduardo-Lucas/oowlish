@@ -61,9 +61,6 @@ def update_geolocation(request):
             lat = data[0]['locations'][0]['latLng']['lat']
             lng = data[0]['locations'][0]['latLng']['lng']
 
-            # df.at[i, 'latitude'] = lat
-            # df.at[i, 'longitude'] = lng
-
             customer = Customer.objects.get(id=df.at[i, 'id'])
             customer.latitude = lat
             customer.longitude = lng
