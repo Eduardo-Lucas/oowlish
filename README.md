@@ -13,5 +13,16 @@ S.
 - Write README.md instructions on how to get your code up-and-running;
 
 ## How to install
+- First, clone the repo
+```
+git clone https://github.com/Eduardo-Lucas/oowlish.git
+```
+- Then, fire up the container
+```
+docker-compose up -d
+```
+- Finally, navigate to [localhost:8009][1] in order to see the first page 
+
+[1]: http://localhost:8009
 
 ## How to use
