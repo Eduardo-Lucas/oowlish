@@ -1,6 +1,6 @@
 # Managing Customers
-
-The Task:
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Eduardo-Lucas/oowlish)
+## The task at hand:
 
 - Create a simple Django REST API which provides information about customers.
 - Create a django management command to import the customers.csv file into your database;  
